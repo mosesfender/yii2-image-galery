@@ -1,0 +1,22 @@
+{
+    "name": "mosesfender/yii2-image-galery",
+    "description": "Image galery extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","imagegalery"],
+    "license": "GPL-2.0",
+    "version": "0.0.1.2",
+    "authors": [
+        {
+            "name": "Moses Fender",
+            "email": "mosesfender@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mosesfender\\galery\\": ""
+        }
+    }
+}
