@@ -1,0 +1,12 @@
+#panel-groups.tab-pane {
+    position: relative;
+    overflow-y: scroll;
+    height: 100%;
+}
+
+.storage-groups-sources { }
+.panel-body.man { background-color: silver; padding: 0; }
+.panel-body.man img { margin: 6px; outline: 0; }
+.panel-body.man img.selected { outline: 2px dashed red; }
+.ui-state-highlight { background-color: yellow !important; }
+.ui-sortable-helper { opacity: .7; }
